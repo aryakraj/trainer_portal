@@ -41,6 +41,25 @@ background-size:cover;
       
     }
 </style>
+ ****
+  //    ****
+ // *@author:RADHIKA L
+ // * @link    http:'http://localhost/trainerport/'
+ // * Alignment checks and unit testing for this project.
+ // * @date:04/03/2021
+     
+****
+    */
+
+  
+  //    ****
+ // *
+ // * @function:add_courses
+ // * @function:Add Course Details
+ // * @author  Radhika L
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:04/03/2021
+
 <body>
     
     <fieldset>
