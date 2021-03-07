@@ -18,7 +18,16 @@
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="<?php echo base_url()?>dashboards/assets/demo/demo.css" rel="stylesheet" />
 </head>
-
+	     //    ****
+ // *
+ // * @function:trainer_registration
+ // * @function:loading trainer registeration
+ // * @author  Radhika L
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:04/03/2021
+     
+     
+ //      ****
 <body class="">
   <div class="wrapper ">
     <div class="sidebar" data-color="purple" data-background-color="white" data-image="<?php echo base_url()?>dashboards/assets/img/sidebar-1.jpg">
