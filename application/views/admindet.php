@@ -29,6 +29,25 @@ background-attachment: fixed;
 
 </style>
 </head>
+ ****
+  //    ****
+ // *@author:Anjali Krishnan
+ // * @link    http:'http://localhost/trainerport/'
+ // * Alignment checks and unit testing for this project.
+ // * @date:05/03/2021
+     
+****
+    */
+
+  
+  //    ****
+ // *
+ // * @function: admin_det
+ // * @function:View Admin Details
+ // * @author  Anjali Krishnan 
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:05/03/2021
+
 <body class="imgs">
 <section>
 
