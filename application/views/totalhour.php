@@ -32,6 +32,14 @@ background-attachment: fixed;
 
 </style>
 </head>
+	//    ****
+     // *
+     // * @function:totalhour
+     // * @function:View Total Hours(Admin)  
+     // * @author  Arya K Raj
+     // * @link    http:'http://localhost/trainerport/'
+     // * @date:06/03/2021
+     //      ****
   <body class="overhidden">
  <div class="container ">
 <label><h3>Course Schedule</h3></label>
