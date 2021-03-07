@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <body>
-
+ //    ****
+     // *
+     // * @function:charts
+     // * @function:View Chart Details Of DDU GKY (for  Master Trainer)
+     // * @author  Arya K Raj
+     // * @link    http:'http://localhost/trainerport/'
+     // * @date:06/03/2021
+     //      ****
 <h1>Chart View of DDU-GKY</h1>
 
 <div id="piechart"></div>
