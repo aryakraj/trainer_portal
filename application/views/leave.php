@@ -41,6 +41,24 @@ background-size:cover;
       margin-left: 300px;
     }
   </style>
+	 //    ****
+  //    ****
+ // *
+ // * @function:Approve
+ // * @function:loading leave approve
+ // * @author  Radhika L
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:04/03/2021
+   //     ****
+ // *
+ // * @function:Reject
+ // * @function:loading leave reject
+ // * @author   Radhika L
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:04/03/2021
+     
+     
+     //    ****
 <body>
 	<body class="">
   <div class="wrapper ">
