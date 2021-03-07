@@ -48,7 +48,14 @@ form
 }
 </style>
 </head>
-
+	/****
+ // *
+ // * @function:course_action
+ // * @function:add course details 
+ // * @author  Anjali Krishnan
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:04/03/2021
+      ****/
   <body>
         <body class="">
   <div class="wrapper ">
