@@ -20,6 +20,14 @@
        
 	</style>
 	</head>
+	 //    ****
+ // *
+ // * @function:users_view
+ // * @function:View User Details By Master Trainer
+ // * @author  Radhika L
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:06/03/2021
+ //      ****
 	<body>
     	<h1>TRAINER LIST</h1>
     	<a href="<?php echo base_url()?>main/dashboard">Back</a>
