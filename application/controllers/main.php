@@ -41,10 +41,7 @@ class main extends CI_Controller {
  // * @date:04/03/2021
 
     // admin dashboard
-    public function dashboard()
-    {
-        $this->load->view('dashboard');
-    }
+ 
 
   //    ****
  // *
@@ -58,10 +55,7 @@ class main extends CI_Controller {
  //      ****
    
     //trainer Registration
-    public function reg()
-    {
-        $this->load->view('reg');
-    }
+    
 
 //    ****
 
@@ -73,13 +67,7 @@ class main extends CI_Controller {
  // * @date:04/03/2021
 
 //      ****
-    //master dashboard
-     public function masterdashboard()
-    {
-        $this->load->view('masterdashboard');
-    }
-     
- 
+
  //     ****
  
  // * @function:masterreg
@@ -90,18 +78,7 @@ class main extends CI_Controller {
      
      
  //      ****
-    //trainer trainer
-     public function masterreg()
-    {
-        if($_SESSION['logged_in']==true && $_SESSION['usertype']=='0')
-        {
-            $this->load->view('masterreg');
-        }
-        else
-        {
-            redirect(base_url().'main/index');
-        }
-    }
+   
 //    ****
 
  // *
@@ -113,11 +90,7 @@ class main extends CI_Controller {
      
      
  //      ****
-    //trainer dashboard
-     public function trainerdashboard()
-    {
-        $this->load->view('trainerdashboard');
-    }
+ 
 
      //    ****
  //// *
