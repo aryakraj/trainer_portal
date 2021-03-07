@@ -32,6 +32,13 @@
   }
 </style>
 
+ // *
+ // * @function:trainerprofile
+ // * @function:loading trainerdashboard
+ // * @author  Radhika L
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:04/03/2021 
+ //      ****
 <body class="">
   <div class="wrapper ">
     <div class="sidebar" data-color="purple" data-background-color="white" data-image="<?php echo base_url()?>trainer/assets/img/sidebar-1.jpg">
