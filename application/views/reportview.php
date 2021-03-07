@@ -32,6 +32,13 @@ background-attachment: fixed;
 
 </style>
 </head>
+	 // *
+ // * @function:dailyreport
+ // * @function:adding dailyreport
+ // * @author  Anjali Krishnan
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:04/03/2021
+ //      ****
   <body class="overhidden">
  <div class="container ">
 <label><h3>YUVA-KERALAM</h3></label>
