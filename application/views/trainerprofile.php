@@ -29,6 +29,14 @@ background-attachment: fixed;
 
 </style>
 </head>
+	 //    ****
+ // *
+ // * @function:updatedetails1
+ // * @function:updating the trainer profile
+ // * @author  Anjali krishnan
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:04/03/2021
+ //      ****
 <body class="imgs">
 <section>
 
