@@ -32,7 +32,16 @@
   }
 </style>
 
+//    ****
 
+ // *
+ // * @function:masterdashboard
+ // * @function:loading masterdashboard
+ // * @author  Radhika L
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:04/03/2021
+
+//      ****
 <body class="">
   <div class="wrapper ">
     <div class="sidebar" data-color="purple" data-image="<?php echo base_url()?>master/assets/img/sidebar-1.jpg">
