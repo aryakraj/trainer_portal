@@ -31,7 +31,16 @@
     margin-top: 400px;
   }
 </style>
+ 
+  //    ****
+ // *
+ // * @function:dashboard
+ // * @function:loading admindashboard
+ // * @author  Radhika L
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:04/03/2021
 
+    // admin dashboard
 <body class="">
   <div class="wrapper ">
     <div class="sidebar" data-color="purple" data-background-color="white" data-image="<?php echo base_url()?>dashboards/assets/img/sidebar-1.jpg">
