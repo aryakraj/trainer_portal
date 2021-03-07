@@ -32,6 +32,14 @@ background-attachment: fixed;
 
 </style>
 </head>
+	 //    ****
+ // *
+ // * @function:trainer_noti
+ // * @function:view notification
+ // * @author  Radhika L
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:05/03/2021
+ //      ****
   <body class="overhidden">
  <div class="container ">
 
