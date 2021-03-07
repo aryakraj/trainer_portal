@@ -967,7 +967,7 @@ public function notification()
     //    ****
      // *
      // * @function:users_view
-     // * @function:View User Details By Master Trainer
+     // * @function:View Complaints By Master Trainer
      // * @author  Arya K Raj
      // * @link    http:'http://localhost/trainerport/'
      // * @date:06/03/2021
@@ -1070,7 +1070,7 @@ public function notification()
     }
     //    ****
      // *
-     // * @function:totalhour
+     // * @function:totalhours
      // * @function:View Total Hours  
      // * @author  Arya K Raj
      // * @link    http:'http://localhost/trainerport/'
