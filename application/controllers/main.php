@@ -41,7 +41,17 @@ class main extends CI_Controller {
  // * @date:04/03/2021
 
     // admin dashboard
- 
+ 		public function dashboard()
+		{
+			if($_SESSION['usertype']=='2' && $_SESSION['logged_in']==true)
+        	{
+				$this->load->view('dashboard');
+			}
+			else
+			{
+				 redirect(base_url().'main/index');
+			}
+		}
 
   //    ****
  // *
@@ -55,7 +65,17 @@ class main extends CI_Controller {
  //      ****
    
     //trainer Registration
-    
+    public function reg()
+		{
+			if($_SESSION['usertype']=='1' && $_SESSION['logged_in']==true)
+			{
+				$this->load->view('reg');
+			}
+			else
+			{
+				 redirect(base_url().'main/index');
+			}
+		}
 
 //    ****
 
@@ -67,7 +87,17 @@ class main extends CI_Controller {
  // * @date:04/03/2021
 
 //      ****
-
+		public function masterdashboard()
+		{
+			if($_SESSION['usertype']=='0' && $_SESSION['logged_in']==true)
+			{
+				$this->load->view('masterdashboard');
+			}
+			else
+			{
+				 redirect(base_url().'main/index');
+			}
+		}
  //     ****
  
  // * @function:masterreg
@@ -78,7 +108,17 @@ class main extends CI_Controller {
      
      
  //      ****
-   
+   	public function masterreg()
+		{
+			if($_SESSION['usertype']=='0' && $_SESSION['logged_in']==true)
+			{
+				$this->load->view('masterreg');
+			}
+			else
+			{
+				 redirect(base_url().'main/index');
+			}
+		}
 //    ****
 
  // *
@@ -86,10 +126,19 @@ class main extends CI_Controller {
  // * @function:loading trainerdashboard
  // * @author  Radhika L
  // * @link    http:'http://localhost/trainerport/'
- // * @date:04/03/2021
-     
-     
+ // * @date:04/03/2021 
  //      ****
+	 public function trainerprofile()
+		{
+		  if($_SESSION['usertype']=='1' && $_SESSION['logged_in']==true)
+       		 {
+       			$this->load->view('trainerdashboard');
+			  }
+			else
+			{
+				 redirect(base_url().'main/index');
+			}
+		}
  
 
      //    ****
