@@ -46,6 +46,15 @@ form
 
 </style>
 </head>
+	//    ****
+ // *
+ // * @function:dailyreport
+ // * @function:adding dailyreport
+ // * @author  Arya K Raj
+ // * @link    http:'http://localhost/trainerport/'
+ // * @date:05/03/2021
+ //      ****
+   
   <body class="overhidden">
   
  <!-------------------------------------------------------------------------------------------->
